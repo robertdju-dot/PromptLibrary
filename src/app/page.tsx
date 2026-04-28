@@ -75,7 +75,7 @@ export default function Home() {
       </main>
 
       <footer className="py-8 text-center text-sm text-muted-foreground border-t border-border/50">
-        <p>&copy; 2026 PromptLibrary. All rights reserved.</p>
+        <p>© 2026 PromptLibrary. All rights reserved.</p>
       </footer>
     </div>
   );
